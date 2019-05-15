@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+html {
+	font-family: roboto;
+	size: 10px;
+	line-height: 3.5em;
+	font-weight: 300;
+	background:rgba(16, 211, 229, 0.16);
+}
+.nav-bar-item, a {
+	text-decoration: none;
+	background-color:rgb(25, 33, 41);
+	color: white;
+	font-size: 2em;
+	margin: 0%;
+}
+.header {
+	background-image: url(https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg);
+	position: 0 0;
+	background-repeat: no-repeat;
+	size: cover;
+	height: 650px;
+}
+.dark-background {
+	background-color: rgb(25, 33, 41);
+	color: white;
+}
+.text {
+	font-size: 2em;
+	font-weight: 100;
+	text-align: center;
+}
+.link-btn {
+	background-color: rgb(67, 163, 230);
+	font-family: roboto Condensed;
+	color: white;
+	text-align: center;
+	font-size: 2em;
+	letter-spacing: 0.5px;
+	text-decoration: none;
+}
+.service-box {
+	font-size: 1.7em;
+	text-align: center;
+}
+.img-service-box {
+	width: 500px;
+}
+#team .section-text {
+	font-size: 1.9em;
+	text-align: center;
+}
+#team .member-name {
+	font-size: 1.5em;
+	font-weight: 700;
+}
+h1, h2, h3, h4, h5 {
+	font-family: roboto Condensed;
+	text-align: center;
+}
+h1 {
+	font-size: 9em;
+	text-align: center;
+	text-transform: uppercase;
+	color: forestgreen;
+}
+h2 {
+	font-size: 5em;
+	text-align: center;
+	text-transform: uppercase;
+	color:#008080;
+}
+h3 {
+	font-size: 4.2em;
+	text-align: center;
+}
+h4 {
+	size: 1.5em;
+	letter-spacing: 0.4px;
+}
+h5 {
+	size: 1.2em;
+}
+#Harold, #Susan, #Taylor {
+	display: inline-block;
+	height: 250px;
+	width: auto;
+}
+.footer {
+	text-align: center;
+	font-size: 1.9em;
+}
+.adress {
+	text-align: center;
+	font-style: normal;
+	font-size: 0.8em;
+}
+.socialnetworks {
+	color: rgb(67, 163, 230);
+	text-align: center;
+	text-decoration: none;
+}
